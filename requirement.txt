@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.5.1
+torchvision==0.20.1
+torchaudio==2.5.1
+requests==2.32.5
+datasets==3.4.0
+numpy==1.26.4
+sentence-transformers==3.4.1
+transformers==4.49.0
